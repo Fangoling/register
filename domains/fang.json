@@ -1,0 +1,11 @@
+{
+  "description": "Redirect to my portfolio page",
+  "owner": {
+    "username":"Fangoling",
+    "blusky":"https://bsky.app/profile/fangx.ing",
+    "discord":"327905667778347019"
+  },
+  "record": {
+    "CNAME":"fangx.ing"
+  }
+}
